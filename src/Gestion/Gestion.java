@@ -6,7 +6,7 @@ package Gestion;
  */
 public class Gestion {
 	public static void main(String[] args) {
-		System.out.println ("Gestion 1.0");
+		System.out.println ("Gestion 1.1");
 
 	}
 
